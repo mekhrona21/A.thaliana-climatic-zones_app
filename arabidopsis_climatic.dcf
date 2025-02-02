@@ -1,0 +1,10 @@
+name: arabidopsis_climatic
+title:
+username: popgeneqbio
+account: popgeneqbio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11063010
+bundleId: 8195702
+url: https://popgeneqbio.shinyapps.io/arabidopsis_climatic/
+version: 1
